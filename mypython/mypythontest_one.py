@@ -1,6 +1,5 @@
-import mypython.mypython_tuling_one as mfy
+from mypythonpackage_one import mypython_one
 
-
-stu= mfy.Student("乌兰", 18)
+stu = mypython_one.Student("乌兰", 18)
 stu.say()
-mfy.sayHello()
+mypython_one.sayHello()
