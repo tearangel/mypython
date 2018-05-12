@@ -8,3 +8,4 @@ class A():
 a = A("one")
 b = A("two")
 print(a > b)
+print(a<b)
